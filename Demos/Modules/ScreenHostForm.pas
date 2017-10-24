@@ -6,7 +6,7 @@ uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
   Dialogs, Buttons, StdCtrls, ComCtrls, ExtCtrls,
 
-  rtcInfo, rtcTypes,
+  rtcSystem, rtcInfo, rtcTypes,
   rtcGateCli, rtcGateConst,
 
   rtcXGateStream,
