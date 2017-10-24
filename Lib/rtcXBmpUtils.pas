@@ -13,7 +13,7 @@ uses
   SysUtils,
 
   rtcTypes,
-  rtcSyncObjs,
+  rtcSystem,
   rtcInfo,
 
   rtcXJPEGConst;

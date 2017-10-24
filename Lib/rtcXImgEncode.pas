@@ -13,13 +13,14 @@ uses
   Classes,
   SysUtils,
 
-  rtcInfo,
   rtcTypes,
+  rtcSystem,
   rtcZLib,
 
-  memXList,
-  memItemList,
+  rtcSrcList,
   rtcLog,
+
+  rtcInfo,
 
   rtcXJPEGConst,
   rtcXJPEGEncode,

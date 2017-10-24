@@ -21,13 +21,11 @@ uses
   TLHelp32,
   SysUtils,
 
-  rtcLog,
-  rtcFastStrings
-
 {$IFDEF RTC_LBFIX}
-  ,rtcVWinStationCLI
+  rtcVWinStationCLI,
 {$ENDIF RTC_LBFIX}
-  ;
+
+  rtcLog;
 
 const
   DESKTOP_ALL = DESKTOP_CREATEMENU or DESKTOP_CREATEWINDOW or

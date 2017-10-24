@@ -20,8 +20,10 @@ uses
 
   Registry,
 
-  rtcTypes, rtcInfo,
-  rtcSyncObjs, rtcLog,
+  rtcTypes,
+  rtcSystem,
+  rtcInfo,
+  rtcLog,
 
   rtcXJPEGConst,
   rtcXBmpUtils,

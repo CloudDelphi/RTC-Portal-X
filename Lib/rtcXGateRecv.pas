@@ -14,9 +14,9 @@ uses
   SysUtils,
 
   rtcTypes,
+  rtcSystem,
   rtcConn,
   rtcInfo,
-  rtcFastStrings,
 
   rtcGateConst,
   rtcGateCli,

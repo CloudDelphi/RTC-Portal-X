@@ -14,7 +14,9 @@ uses
   SysUtils,
 
   rtcTypes,
+  rtcSystem,
   rtcThrPool,
+  rtcThrJobs,
   rtcConn,
   rtcInfo,
 
