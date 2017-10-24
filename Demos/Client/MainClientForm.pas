@@ -12,14 +12,13 @@ uses
   rtcInfo,
   rtcLog,
   rtcConn,
-  rtcSyncObjs,
-
+  rtcSystem,
   rtcGateConst,
   rtcGateCli,
 
   rtcXGateCIDs,
 
-  memStrList,
+  rtcSrcList,
 
   ScreenHostForm,
   ScreenViewForm,
