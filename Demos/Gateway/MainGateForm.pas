@@ -17,7 +17,7 @@ uses
   rtcGateConst,
 
   GatewayModule,
-  ExtCtrls, Spin;
+  ExtCtrls, Spin, rtcSystem;
 
 type
   TGateForm = class(TForm)

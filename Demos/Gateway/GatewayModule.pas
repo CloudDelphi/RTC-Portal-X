@@ -6,7 +6,7 @@ uses
   SysUtils, Classes,
 
   rtcTypes, rtcInfo, rtcLog,
-  rtcConn, rtcGateSrv, rtcDataSrv;
+  rtcConn, rtcGateSrv, rtcDataSrv, rtcSystem;
 
 type
   TGateModule = class(TDataModule)
